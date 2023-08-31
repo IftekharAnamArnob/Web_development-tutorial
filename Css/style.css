@@ -1,0 +1,41 @@
+/* body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-family: "press Start 2p","consolas",sans-serif;
+}
+
+p{
+    color: chartreuse;
+    font-family: "consolas",sans-serif;
+    font-style: italic;
+    font-weight: bold;
+   
+    font-size: 30px;
+
+} */
+
+body{
+    background-image: url(mybackground.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+h1{
+    background:linear-gradient(to right ,skyblue,white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p{
+    background:linear-gradient(to left ,skyblue,white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+ 
+
